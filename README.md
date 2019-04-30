@@ -1,5 +1,6 @@
 # Eyantra
 Theme: Nutty Squirrel(NS)
+
 Task 1.2 - Problem Statement
 In this task you have to program the robot that can scan the color of the Nuts, pick it from PICK- UP ZONE and place it in the correct DEPOSIT ZONES. The DEPOSIT ZONES are at different
 locations on the arena marked as D1 and D2 in Figure 1.  Arena for the problem statement is given in Task folder - Task_1.2.ttt file.  It is made up of circular, curved and straight paths with a START position. You can
