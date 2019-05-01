@@ -20,3 +20,4 @@ robot has to avoid these obstacles and follow the optimal path. You can use any 
 DEPOSIT ZONE              COLOR                CAPACITY
 D1                         RED                     2
 D2                         GREEN                   2
+*********************
